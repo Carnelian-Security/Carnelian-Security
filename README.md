@@ -1,4 +1,4 @@
-**Carnelian Security**
+# Carnelian Security
 
 The purpose of Carnelian Security is to take novel (or old) PoC code, clean it up, and provide a proper exploit for a given vulnerability as opposed to a sloppy PoC. Exploits will have plug-and-play options similar to Metasploit modules. 
 
