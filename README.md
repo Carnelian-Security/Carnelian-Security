@@ -1,5 +1,4 @@
 # Carnelian Security
 
-The purpose of Carnelian Security is to take novel (or old) PoC code, clean it up, and provide a proper exploit for a given vulnerability as opposed to a sloppy PoC. Exploits will have plug-and-play options similar to Metasploit modules. 
+This GitHub account acts as a dummy C2 for several malware projects. If you have questions relating to the use of this account, please contact: carnelian-sec@tutanota.com
 
-Exploit code from this account is primarly written in python3 and tested from a Linux platform.
